@@ -1,2 +1,1 @@
-[<img src="https://netease-recent-profile.vercel.app/?id=1383764450" alt="Netease recently played" title="Netease recently played">
-](https://netease-recent-profile.vercel.app/?id=1383764450)
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=1383764450&theme=card&themeColor=e60026&size=300)](https://netease-recent-profile.vercel.app/?id=1383764450&theme=card&themeColor=e60026&size=300)
