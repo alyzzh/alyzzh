@@ -1,1 +1,1 @@
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=1383764450&theme=card&themeColor=e60026&size=300)](https://netease-recent-profile.vercel.app/?id=1383764450&theme=card&themeColor=e60026&size=300)
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=1383764450&theme=card&themeColor=4566D4&size=300)](https://netease-recent-profile.vercel.app/?id=1383764450&theme=card&themeColor=4566D4&size=300)
